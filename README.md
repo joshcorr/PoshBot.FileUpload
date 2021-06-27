@@ -3,7 +3,7 @@
 Basic poshbot plugin for testing file uploads from a local system.  
 Written to test PoshBot SendMessage cases  
 
-## Sytax
+## Syntax
 
 Uploads a file to the slack channel or thread  
 `!uploadfile "C:\temp\SlackUpload.txt"`
